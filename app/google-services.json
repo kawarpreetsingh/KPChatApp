@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124990566312",
+    "firebase_url": "https://kpchatapp-123.firebaseio.com",
+    "project_id": "kpchatapp-123",
+    "storage_bucket": "kpchatapp-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124990566312:android:48e97a384b2f89fc",
+        "android_client_info": {
+          "package_name": "com.example.android.kpchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124990566312-d1gfpdr5io5fbf18uslgthr6mjhpc2tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.kpchatapp",
+            "certificate_hash": "887be17570d6e393988989e2a821ec7a8ac32679"
+          }
+        },
+        {
+          "client_id": "124990566312-timm4taa98otgctbo5a9ndvfua6938k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrQRLT9rRIf6dSLmkg8vDiRGAVHnxqUpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124990566312-timm4taa98otgctbo5a9ndvfua6938k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
