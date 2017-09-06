@@ -1,3 +1,7 @@
 <resources>
+    <!-- Different strings used in our app-->
     <string name="app_name">KPChatApp</string>
+    <string name="send_button_label">Send</string>
+    <string name="logout_label">Logout</string>
+    <string name="message_logout_confirmation">Are you sure to Logout</string>
 </resources>

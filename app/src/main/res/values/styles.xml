@@ -6,8 +6,18 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Using rquired button style in our app-->
+        <item name="colorButtonNormal">@drawable/button_selector</item>
+        <item name="android:buttonStyle">@style/KPButtonStyle</item>
     </style>
 
+    <!-- Giving a style to button-->
+    <style name="KPButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/colorTitle</item>
+    </style>
+
+    <!-- Splash screen theme to be applied to activity through Manifest.xml-->
     <style name="splashScreenTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen">
         <item name="android:windowBackground">@drawable/splash_screen</item>
     </style>
